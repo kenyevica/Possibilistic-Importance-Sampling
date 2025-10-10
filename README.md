@@ -9,5 +9,5 @@ The folder contains the following codes:
 
 Supplementary materials:
 <ul>
-<li>Questionnaire_videos.pptx: the slides that was projected during the questionnaire (in the original Hungarian language), containing the videos that should be wathced </li>
+<li>Questionnaire_videos.pptx: the slides that was projected during the questionnaire (in the original Hungarian language), containing the videos that should be wathced [![DOI](https://doi.org/10.5281/zenodo.17310641)](https://doi.org/10.5281/zenodo.17310641)</li>
 </ul>
