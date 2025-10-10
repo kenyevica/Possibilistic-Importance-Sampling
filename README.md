@@ -9,5 +9,5 @@ The folder contains the following codes:
 
 Supplementary materials:
 <ul>
-<li>pfo.m: general PFO for global optimization</li>
+<li>Questionnaire_videos.pptx: the slides that was projected during the questionnaire (in the original Hungarian language), containing the videos that should be wathced </li>
 </ul>
