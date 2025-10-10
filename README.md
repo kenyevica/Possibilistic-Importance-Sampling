@@ -3,9 +3,9 @@ The improved version of the Importance Sampling (IS) algorithm that is able to u
 
 The folder contains the following codes:
 <ul>
-<li>*available later*</li>  
+<li><em>available later<em></li>  
 </ul>
-*available later*
+
 
 Supplementary materials:
 <ul>
