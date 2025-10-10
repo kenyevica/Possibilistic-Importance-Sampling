@@ -12,4 +12,4 @@ Supplementary materials:
 <li>Questionnaire_videos.pptx: the slides that was projected during the questionnaire (in the original Hungarian language), containing the videos that should be wathced 
 </li>
 </ul>
-[![DOI](https://doi.org/10.5281/zenodo.17310641)](https://doi.org/10.5281/zenodo.17310641)]
+[![DOI](https://doi.org/10.5281/zenodo.17310641)](https://doi.org/10.5281/zenodo.17310641)
